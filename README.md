@@ -1,7 +1,7 @@
 <h1 align="center">Perpustakaan</h1>
 
 ## Author
-YEHUDA DANI UTOMO
+YEHUDA DANI UTOMO \
 2402010086
 
 ## Fitur 
