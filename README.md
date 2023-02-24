@@ -43,13 +43,6 @@ YEHUDA DANI UTOMO \
 git clone https://github.com/yehudautomo/exam_perpustakaan
 ```
 
-**Download zip**
-
-```bash
-extract file zip
-```
-
-
 ## Install composer
 
 ```bash

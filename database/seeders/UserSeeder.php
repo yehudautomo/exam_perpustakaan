@@ -36,8 +36,8 @@ class UserSeeder extends Seeder
         ])->assignRole('peminjam');
 
         User::create([
-            'name' => 'musyahya',
-            'email' => 'musyahya@gmail.com',
+            'name' => 'yehuda',
+            'email' => 'yehuda.utomo@binus.ac.id',
             'password' => bcrypt('123123123'),
             'email_verified_at' => now()
         ])->assignRole('peminjam');
